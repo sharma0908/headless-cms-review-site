@@ -1,0 +1,34 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "title": "A Heartfelt Tale",
+      "item": "The Kite Runner (Book)",
+      "category": "book",
+      "rating": 5,
+      "excerpt": "A beautiful story about friendship and redemption.",
+      "author": "Srishti Sharma",
+      "date": "2025-11-01"
+    },
+    {
+      "id": 2,
+      "title": "Visually Stunning",
+      "item": "Horizon: Forbidden West (Game)",
+      "category": "game",
+      "rating": 4,
+      "excerpt": "Gorgeous visuals and fun gameplay.",
+      "author": "Srishti Sharma",
+      "date": "2025-10-12"
+    },
+    {
+      "id": 3,
+      "title": "Comfort Movie",
+      "item": "Paddington 2 (Movie)",
+      "category": "movie",
+      "rating": 5,
+      "excerpt": "Warm, funny, and emotional.",
+      "author": "Srishti Sharma",
+      "date": "2024-06-20"
+    }
+  ]
+}
